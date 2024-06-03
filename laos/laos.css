@@ -1,0 +1,58 @@
+.blue{
+    width:600px;
+    height:200px;
+    background:blue;
+    float:bottom;
+    display: flex;
+            justify-content: center;
+            align-items: center;
+}
+.red1{
+    width:600px;
+    height:100px;
+    background:red;
+    
+}
+.circle {
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+.red2{
+    width:600px;
+    height:100px;
+    background:red;
+    float:bottom;
+
+}
+
+.of{
+    margin-bottom:1px;
+    font-size:55px;
+      
+}
+.laos{
+    margin-top:1px;
+    font-size:55px;
+}
+.flag{
+    color: white;
+stroke-width: 20px;
+font-size: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-style: serif;
+
+
+}
+.border{
+    border:5px;
+    color:yellow;
+}
